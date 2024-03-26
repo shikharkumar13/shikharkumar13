@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Shikhar
 #### I am a Data Scientist and also a Data Science Trainer/Instructor
-I have worked as a Data Scientist and Data Science Trainer for quite some time now and I have trained more than 6000 working professionals and fresher to help them transition successfully to Data Science roles.
+I have been working as a Data Scientist and Data Science Trainer for quite some time now and I have trained more than 6500 working professionals and fresher to help them transition successfully to Data Science roles.
 
 Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Learning / MLOps / AWS / Natural Language Processing / Generative AI
 
-- 🌱 I’m currently learning No Code tools to create SaaS products with AI 
+- 🌱 I’m currently learning No Code tools to create SaaS products with AI.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikharkumar13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kumar-shikhar-ai//)  
