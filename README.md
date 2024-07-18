@@ -6,6 +6,8 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 
 - 🌱 I’m currently learning No Code tools to create SaaS products with AI.
 
+- Data Science Videos : https://drive.google.com/drive/folders/1VnNJGvapw8dLm3eUGxDUxTHwGz1SaJgV?usp=sharing
+
 - Data Science Handwritten Notes : https://drive.google.com/drive/folders/1vDP9M69-S2Su04x1AOvUTg4AkyKPJYIn?usp=sharing
 
 
