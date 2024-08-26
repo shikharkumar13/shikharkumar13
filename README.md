@@ -6,6 +6,8 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 
 - 🌱 I’m currently learning No Code tools to create SaaS products with AI.
 
+- Data Science with Shikhar(YT) : https://www.youtube.com/@DataSciencewithShikhar
+
 - Data Science Videos : https://drive.google.com/drive/folders/1VnNJGvapw8dLm3eUGxDUxTHwGz1SaJgV?usp=sharing
 
 - Data Science and Machine Learning Books : https://drive.google.com/drive/folders/1-1cvqxjY8OUZC87OLXcnusypgqXp4-bw?usp=drive_link
