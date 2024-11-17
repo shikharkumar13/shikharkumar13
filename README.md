@@ -15,7 +15,7 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 - Data Science Handwritten Notes : https://drive.google.com/drive/folders/1vDP9M69-S2Su04x1AOvUTg4AkyKPJYIn?usp=sharing
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikharkumar13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kumar-shikhar-ai//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikharkumar13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kumar-shikhar-ai/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkumar13)](https://github.com/anuraghazra/github-readme-stats)
 
