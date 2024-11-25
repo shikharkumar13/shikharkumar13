@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Shikhar
 #### I am a Data Scientist and also a Data Science Trainer/Instructor
 
-![Uploading 20240925_160350.jpg…]()
+![20240925_160350](https://github.com/user-attachments/assets/25ebd77e-b06e-4ebc-ae39-222db28fb975)
 
 
 I have been working as a Data Scientist and Data Science Trainer for quite some time now and I have trained more than 6500 working professionals and fresher to help them transition successfully to Data Science roles.
