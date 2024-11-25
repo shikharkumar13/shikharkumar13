@@ -10,6 +10,8 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 
 - Data Science Videos : https://drive.google.com/drive/folders/1VnNJGvapw8dLm3eUGxDUxTHwGz1SaJgV?usp=sharing
 
+- Practice Python Programming here : https://courses.bigbinaryacademy.com/learn-python/
+
 - Data Science Handwritten Notes : https://drive.google.com/drive/folders/1vDP9M69-S2Su04x1AOvUTg4AkyKPJYIn?usp=sharing
 
 - Data Science and Machine Learning Books : https://drive.google.com/drive/folders/1-1cvqxjY8OUZC87OLXcnusypgqXp4-bw?usp=drive_link
