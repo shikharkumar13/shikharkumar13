@@ -14,7 +14,7 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 - Data Science Videos : https://drive.google.com/drive/folders/1VnNJGvapw8dLm3eUGxDUxTHwGz1SaJgV?usp=sharing
 - Practice Python Programming here : https://courses.bigbinaryacademy.com/learn-python/
 - Data Science Handwritten Notes : https://drive.google.com/drive/folders/1vDP9M69-S2Su04x1AOvUTg4AkyKPJYIn?usp=sharing
-- Data Science and Machine Learning Books : https://drive.google.com/drive/folders/1-1cvqxjY8OUZC87OLXcnusypgqXp4-bw?usp=drive_link
+- Data Science and Machine Learning Books : https://dub.sh/6HlTWRL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikharkumar13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kumar-shikhar-ai/)  
