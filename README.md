@@ -1,9 +1,6 @@
 ### Hi there 👋, My name is Shikhar
 #### I am a Data Scientist and also a Data Science Trainer/Instructor
 
-![20240925_160350](https://github.com/user-attachments/assets/25ebd77e-b06e-4ebc-ae39-222db28fb975)
-
-
 I have been working as a Data Scientist and Data Science Trainer for quite some time now and I have trained more than 9500 working professionals and fresher to help them transition successfully to Data Science roles.
 
 Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Learning / MLOps / AWS / Natural Language Processing / Generative AI
