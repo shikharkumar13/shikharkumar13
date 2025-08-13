@@ -7,7 +7,7 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 
 - 🌱 I’m currently learning No Code tools to create SaaS products with AI.
 
-- If you are planning to go abroad for Bachelors or Masters, I have something to help you : https://dub.sh/ZLp28T8
+- If you are planning to go abroad for Bachelors or Masters, we will help you like a family member through the entire admission journey, end to end : https://dub.sh/ZLp28T8
 - Data Science with Shikhar(Substack) : https://substack.com/@datasciencewithshikhar/posts
 - Data Science with Shikhar(YT) : https://www.youtube.com/@DataSciencewithShikhar
 
