@@ -12,7 +12,7 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 - Data Science with Shikhar(YT) : https://www.youtube.com/@DataSciencewithShikhar
 
 - Data Science Videos : https://drive.google.com/drive/folders/1VnNJGvapw8dLm3eUGxDUxTHwGz1SaJgV?usp=sharing
-- Practice Python Programming here : https://courses.bigbinaryacademy.com/learn-python/
+- Practice Python Programming here : https://courses.bigbinaryacademy.com/learn-python/ , https://py.checkio.org/
 - Data Science Handwritten Notes : https://dub.sh/QrI0OSz
 - Data Science and Machine Learning Books : https://dub.sh/6HlTWRL
 
