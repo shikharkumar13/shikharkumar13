@@ -1,16 +1,12 @@
 ### Hi there 👋, My name is Shikhar
 #### I am a Data Scientist and also a Data Science Trainer/Instructor
 
-I have been working as a Data Scientist and Data Science Trainer for quite some time now and I have trained more than 9500 working professionals and fresher to help them transition successfully to Data Science roles.
+I have been working as a Data Scientist and Data Science Trainer for quite some time now and I have trained more than 17000 working professionals and fresher to help them transition successfully to Data Science roles.
 
 Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Learning / MLOps / AWS / Natural Language Processing / Generative AI
 
-- 🌱 I’m currently learning No Code tools to create SaaS products with AI.
-
-- If you are planning to go abroad for Bachelors or Masters, we will help you like a family member through the entire admission journey, end to end : https://dub.sh/sDr3bDG
-- Data Science with Shikhar(Substack) : https://substack.com/@datasciencewithshikhar/posts
+- Data Science and AI with Shikhar(Substack) : https://dsaiwithshikhar.substack.com/
 - Data Science with Shikhar(YT) : https://www.youtube.com/@DataSciencewithShikhar
-
 - Data Science Videos : https://drive.google.com/drive/folders/1VnNJGvapw8dLm3eUGxDUxTHwGz1SaJgV?usp=sharing
 - Practice Python Programming here : https://courses.bigbinaryacademy.com/learn-python/ , https://py.checkio.org/
 - Data Science Handwritten Notes : https://dub.sh/QrI0OSz
