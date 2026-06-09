@@ -6,6 +6,7 @@ I have been working as a Data Scientist and Data Science Trainer for quite some 
 Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Learning / MLOps / AWS / Natural Language Processing / Generative AI
 
 - Data Science and AI with Shikhar(Substack) : https://dsaiwithshikhar.substack.com/
+- DSML and AI Roadmaps : https://drive.google.com/drive/u/0/folders/1HTyoledopqoEaFZvxaGAMXI9c3oJJUkG
 - Data Science with Shikhar(YT) : https://www.youtube.com/@DataSciencewithShikhar
 - Data Science Videos : https://drive.google.com/drive/folders/1VnNJGvapw8dLm3eUGxDUxTHwGz1SaJgV?usp=sharing
 - Practice Python Programming here : https://courses.bigbinaryacademy.com/learn-python/ , https://py.checkio.org/
