@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 212" width="1000" height="212" role="img" aria-label="ML system lifecycle: ingest, features, train, serve, monitor, retrain">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#59636e"/></marker>
+    <marker id="ah2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0d9488"/></marker>
+  </defs>
+  <style>
+    .flow { stroke:#59636e; stroke-width:2; fill:none; stroke-dasharray:6 5; animation:dash 1.4s linear infinite; }
+    .loop { stroke:#0d9488; }
+    .stage { animation:rise .6s ease-out both; }
+    @keyframes dash { to { stroke-dashoffset:-22 } }
+    @keyframes rise { from { opacity:0; transform:translateY(8px) } to { opacity:1; transform:none } }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important } }
+  </style>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <line x1="188.0" y1="78.0" x2="208.0" y2="78.0" class="flow" marker-end="url(#ah)"/><line x1="388.0" y1="78.0" x2="408.0" y2="78.0" class="flow" marker-end="url(#ah)"/><line x1="588.0" y1="78.0" x2="608.0" y2="78.0" class="flow" marker-end="url(#ah)"/><line x1="788.0" y1="78.0" x2="808.0" y2="78.0" class="flow" marker-end="url(#ah)"/>
+    <path d="M 900 130 V 178 Q 900 188 890 188 H 110 Q 100 188 100 178 V 136" class="flow loop" marker-end="url(#ah2)"/>
+    
+    <g class="stage" style="animation-delay:0.00s">
+      <rect x="16.0" y="30" width="168" height="96" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+      <rect x="16.0" y="30" width="168" height="5" rx="2.5" fill="#4f46e5"/>
+      <text x="32.0" y="60" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#4f46e5">01</text>
+      <text x="32.0" y="86" font-size="17" font-weight="700" fill="#1f2328">Version data</text>
+      <text x="32.0" y="110" font-size="13.5" fill="#59636e">pandas · SQL · DVC</text>
+    </g>
+    <g class="stage" style="animation-delay:0.12s">
+      <rect x="216.0" y="30" width="168" height="96" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+      <rect x="216.0" y="30" width="168" height="5" rx="2.5" fill="#7c3aed"/>
+      <text x="232.0" y="60" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#7c3aed">02</text>
+      <text x="232.0" y="86" font-size="17" font-weight="700" fill="#1f2328">Feature pipelines</text>
+      <text x="232.0" y="110" font-size="13.5" fill="#59636e">scikit-learn</text>
+    </g>
+    <g class="stage" style="animation-delay:0.24s">
+      <rect x="416.0" y="30" width="168" height="96" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+      <rect x="416.0" y="30" width="168" height="5" rx="2.5" fill="#4f46e5"/>
+      <text x="432.0" y="60" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#4f46e5">03</text>
+      <text x="432.0" y="86" font-size="17" font-weight="700" fill="#1f2328">Train &amp; track</text>
+      <text x="432.0" y="110" font-size="13.5" fill="#59636e">LightGBM · MLflow</text>
+    </g>
+    <g class="stage" style="animation-delay:0.36s">
+      <rect x="616.0" y="30" width="168" height="96" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+      <rect x="616.0" y="30" width="168" height="5" rx="2.5" fill="#0d9488"/>
+      <text x="632.0" y="60" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#0d9488">04</text>
+      <text x="632.0" y="86" font-size="17" font-weight="700" fill="#1f2328">Serve</text>
+      <text x="632.0" y="110" font-size="13.5" fill="#59636e">FastAPI · Docker</text>
+    </g>
+    <g class="stage" style="animation-delay:0.48s">
+      <rect x="816.0" y="30" width="168" height="96" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+      <rect x="816.0" y="30" width="168" height="5" rx="2.5" fill="#0d9488"/>
+      <text x="832.0" y="60" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#0d9488">05</text>
+      <text x="832.0" y="86" font-size="17" font-weight="700" fill="#1f2328">Monitor</text>
+      <text x="832.0" y="110" font-size="13.5" fill="#59636e">drift · CI/CD</text>
+    </g>
+    <rect x="365.0" y="176" width="270" height="24" rx="12" fill="#ffffff" stroke="#0d9488"/>
+    <text x="500.0" y="193" text-anchor="middle" font-size="13" font-weight="600" fill="#0d9488">retrain with Prefect when data drifts</text>
+  </g>
+</svg>

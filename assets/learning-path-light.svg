@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Learning path: Python, Statistics, Feature Engineering, ML Algorithms, MLOps, Generative AI">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="85" y1="0" x2="915" y2="0">
+      <stop offset="0" stop-color="#4f46e5"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .run { stroke:url(#g); stroke-width:4; stroke-dasharray:14 10; animation:dash 1.6s linear infinite; }
+    .step { animation:rise .6s ease-out both; }
+    @keyframes dash { to { stroke-dashoffset:-48 } }
+    @keyframes rise { from { opacity:0; transform:translateY(8px) } to { opacity:1; transform:none } }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important } }
+  </style>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <line x1="85" y1="58" x2="915" y2="58" stroke="#e6e9ef" stroke-width="4" stroke-linecap="round"/>
+    <line x1="85" y1="58" x2="915" y2="58" class="run"/>
+    
+    <g class="step" style="animation-delay:0.00s">
+      <circle cx="85" cy="58" r="21" fill="#ffffff" stroke="url(#g)" stroke-width="3"/>
+      <text x="85" y="63" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#1f2328">1</text>
+      <text x="85" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">Python</text>
+      <text x="85" y="130" text-anchor="middle" font-size="13.5" fill="#59636e">20 chapters</text>
+    </g>
+    <g class="step" style="animation-delay:0.15s">
+      <circle cx="251" cy="58" r="21" fill="#ffffff" stroke="url(#g)" stroke-width="3"/>
+      <text x="251" y="63" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#1f2328">2</text>
+      <text x="251" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">Statistics</text>
+      <text x="251" y="130" text-anchor="middle" font-size="13.5" fill="#59636e">13 articles</text>
+    </g>
+    <g class="step" style="animation-delay:0.30s">
+      <circle cx="417" cy="58" r="21" fill="#ffffff" stroke="url(#g)" stroke-width="3"/>
+      <text x="417" y="63" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#1f2328">3</text>
+      <text x="417" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">Feature Eng.</text>
+      <text x="417" y="130" text-anchor="middle" font-size="13.5" fill="#59636e">10 notebooks</text>
+    </g>
+    <g class="step" style="animation-delay:0.45s">
+      <circle cx="583" cy="58" r="21" fill="#ffffff" stroke="url(#g)" stroke-width="3"/>
+      <text x="583" y="63" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#1f2328">4</text>
+      <text x="583" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">ML Algorithms</text>
+      <text x="583" y="130" text-anchor="middle" font-size="13.5" fill="#59636e">hands-on</text>
+    </g>
+    <g class="step" style="animation-delay:0.60s">
+      <circle cx="749" cy="58" r="21" fill="#ffffff" stroke="url(#g)" stroke-width="3"/>
+      <text x="749" y="63" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#1f2328">5</text>
+      <text x="749" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">MLOps</text>
+      <text x="749" y="130" text-anchor="middle" font-size="13.5" fill="#59636e">13 articles</text>
+    </g>
+    <g class="step" style="animation-delay:0.75s">
+      <circle cx="915" cy="58" r="21" fill="#ffffff" stroke="url(#g)" stroke-width="3"/>
+      <text x="915" y="63" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#1f2328">6</text>
+      <text x="915" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">Generative AI</text>
+      <text x="915" y="130" text-anchor="middle" font-size="13.5" fill="#59636e">42-article path</text>
+    </g>
+  </g>
+</svg>
